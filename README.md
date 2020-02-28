@@ -1,2 +1,4 @@
 # Public
-public repository
+public repository fot binaries
+
+psw: inf*****
